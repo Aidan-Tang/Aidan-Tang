@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aidan-Tang
-- 👀 I’m interested in ... website debeloping
+- 👀 I’m interested in ... website developing
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... none
 - 📫 How to reach me ... aidantang1021@gmail.com
